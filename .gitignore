@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+cross_val/data-raw/*.csv
+cross_val/data-raw/*.sqlite
+python/data-raw/*.csv
+rstats/data-raw/*.csv
+cross_val/data-raw/*.Rmd
+python/data-raw/*.Rmd
+rstats/data-raw/*.Rmd
